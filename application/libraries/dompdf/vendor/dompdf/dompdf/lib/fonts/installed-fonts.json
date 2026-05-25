@@ -1,0 +1,15 @@
+{
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_cdeae316b4156185e40abc7d9eb08a76"
+    },
+    "font awesome 5 free": {
+        "normal": "C:\\xampp\\htdocs\\projects\\timwork\\application\\libraries\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_normal_b8a16eeb471354877b5f3bad3f0d6c74",
+        "900": "font_awesome_5_free_900_c3b91c4b63d9691acf39d410fd9e3f70"
+    },
+    "nunito": {
+        "normal": "C:\\xampp\\htdocs\\projects\\timwork\\application\\libraries\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_normal_ab2f58f5c2d50d05b471eff5d71aa4ec",
+        "600": "C:\\xampp\\htdocs\\projects\\timwork\\application\\libraries\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_600_2f44a54e7886919e85daa66d944c1965",
+        "bold": "C:\\xampp\\htdocs\\projects\\timwork\\application\\libraries\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_bold_9066513fbd07f280d87f43e3f82744ed",
+        "800": "nunito_800_00c084e22ed206f9e9934d87fa672232"
+    }
+}
